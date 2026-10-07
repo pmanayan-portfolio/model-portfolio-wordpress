@@ -1,0 +1,5 @@
+.dmp-settings-wrap { max-width: 1120px; }
+.dmp-settings-card { background: #fff; border: 1px solid #dcdcde; padding: 22px 26px; margin: 22px 0; box-shadow: 0 1px 1px rgba(0,0,0,.04); }
+.dmp-settings-card > h2 { margin-top: 0; font-size: 20px; }
+.dmp-section-description { color: #646970; margin-top: -8px; }
+.dmp-image-preview img { width: 180px; max-height: 180px; object-fit: cover; margin-top: 12px; border: 1px solid #dcdcde; }
